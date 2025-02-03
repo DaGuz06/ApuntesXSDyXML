@@ -4,8 +4,8 @@ Este repositorio contiene documentación en formato Markdown sobre **XML (Extens
 
 ## Contenido  
 Los archivos incluyen información sobre:  
-- **Introducción a XML**.
-- **Introducción a XSD**.
+- **Introducción a [XML](https://github.com/DaGuz06/ApuntesXSDyXML/blob/main/XML.md)**.
+- **Introducción a [XSD](https://github.com/DaGuz06/ApuntesXSDyXML/blob/main/XSD.md)**.
 - **Elementos y atributos** en XML y XSD.  
 - **Validación con XSD** 
 - **Ejemplos prácticos** de XML y su validación con XSD.  
